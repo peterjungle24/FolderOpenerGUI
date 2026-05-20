@@ -20,8 +20,8 @@ The `Path.json` is the file responsable for showing the category and the path
   
 **Note:** Json doesnt suppoort the single `\`, so its advised to use the `\\` or `/` instead.
 But i actually want to fix this *"issue"*  
-It also supports comments on the file. So dont be afraid if the syntax of your editor says its a error!
-
+It also supports comments on the file. So dont be afraid if the syntax of your editor says its a error!  
+<img width="798" height="453" alt="image" src="https://github.com/user-attachments/assets/6d453da8-b026-486d-af9e-7befb305f74d" />  
 # The App itself
 At selecting in one of the categories, a set of paths will be shown.  
 So selecting a path, *it will open all the paths inside of it. At same time*  
