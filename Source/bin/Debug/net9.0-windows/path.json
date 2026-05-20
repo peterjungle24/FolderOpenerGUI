@@ -1,0 +1,7 @@
+{
+	// This comment will be ignored by the application
+	"My Category":
+	{
+		"Path1": [ "path/to/folder1", "path/to/folder2" ]
+	}
+}
